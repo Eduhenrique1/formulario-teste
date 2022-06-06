@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 820px;
+    height: 100%;
+    background-color: #D7F8FA;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
+
+}
+
+header{
+    width: 100%;
+    height: 75px;
+    background-color: #5C94FF;
+    margin-top: 1%;
+}
+
+
+.header-text{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.header-text h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+
+form{
+    margin-top: 7%;
+    margin-left: 8%;
+}
+.text{
+    margin-bottom: 4%;
+    font-size: 18px; 
+}
+
+.Q1{
+    margin: 3% 1% 4% 6%;
+}
+
+.q2{
+    width: 100%;
+    margin-left: 5%;
+    margin-bottom: 5%; 
+}
+
+.q2 input{
+    width: 70%;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid rgb(168, 151, 151);
+    background-color: transparent;
+}
+
+.q2 input:focus{
+    outline: 0;
+}
+
+.q3{
+    margin-left: 11%;
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+.select{
+    width: 100%;
+    height: 50px;
+}
+
+.select select{
+    height: 30px;
+}
+
+.select select:focus{
+    outline: 0;
+}
+
+
+
+.q4{  
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.q4 input{
+    width: 19px;
+    height: 18px;
+}
+
+.q5{
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.q5 input{
+    width: 18px;
+    height: 19px;
+}
+
+.q6{
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.q6 input{
+    width: 18px;
+    height: 19px;
+}
+
+.q7{
+    width: 82%;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5%;
+}
+.q8{
+    width: 82%;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5%;
+}
+
+
+.q9{
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.q9 input{
+    width: 18px;
+    height: 19px;
+}
+
+.q10{
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+
+.q10 input{
+    width: 18px;
+    height: 18px;
+    font-size: 18px;
+    margin-left: 3%;
+}
+
+.q11{
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.q11 input{
+    width: 45px;
+    height: 19px;
+}
+
+.q11 input:focus{
+    outline: 0;
+}
+
+.btn{
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    margin-bottom: 10%;
+    padding-bottom:5%;
+}
+
+.btn button{
+    width: 30%;
+    height: 40px;
+    background-color: orangered;
+    color: white;
+    text-transform: uppercase;
+}

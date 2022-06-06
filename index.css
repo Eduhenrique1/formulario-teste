@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #D7F8FA;
+}
+
+.container{
+    width: 820px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    background-color: white;
+    text-align: center;
+
+}
+
+.text{
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 5%;
+
+}
+
+.apresentation{
+    font-size: 20px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 1%;
+
+}
+
+.apresentation input{
+    margin-top: 1%;
+}
+
+
+h2{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 10%;
+}
